@@ -1,4 +1,4 @@
-### Hi there , Want to know about me visit the link in Bio 👋
+### The Internet is one of those things that everyone uses, but few people bother to learn about. As hackers, it is vital that we understand what exactly the web is, and how it works. 👋
 
 <!--
 **viston03/viston03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
