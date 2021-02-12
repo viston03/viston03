@@ -1,16 +1,12 @@
-### The Internet is one of those things that everyone uses, but few people bother to learn about. As hackers, it is vital that we understand what exactly the web is, and how it works. 👋
+# Hello friend 👋 🧑‍💻
 
-<!--
-**viston03/viston03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/viston03/viston03/master/Swar%20Shah.png" alt="banner that says Swar Shah - Penetration Tester, Synack Red Team, Developer.">
 
-Here are some ideas to get you started:
+I am passionate to make the upcoming technologies more secure to use. Also an OSCP Certified and enthusiast to share knowledge.
 
-- 🔭 I’m currently working on Securing Web Applications
-- 🌱 I’m currently learning Web Application Security
-- 👯 I’m looking to collaborate on Learning 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me around the web 🌎:
+
+- Learning in public on <a href="https://www.youtube.com/c/VisSec">YouTube</a> 📚 📹
+- Sharing thoughts and insights on <a href="https://medium.com/@swar7233">Medium</a> & <a href="https://www.1daylabs.ml/">1daylabs</a> 💻
+- Career related updates on <a href="https://www.linkedin.com/in/swar-shah-65053713a/">LinkedIn</a> & <a href="https://twitter.com/swar_shah05">Twitter</a> 💼
+- Discuss new projects with me at <a href="https://github.com/viston03">Github</a> 📫
